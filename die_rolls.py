@@ -1,3 +1,7 @@
+# MICHAEL VICTOR
+# COMPUTER SCIENCE GROUP B
+# 23/0749
+
 from random_gen import SimpleRandom # Import the generator class from random_gen.py
 rng = SimpleRandom(seed=123)
 

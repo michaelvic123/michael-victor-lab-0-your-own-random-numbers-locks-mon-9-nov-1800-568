@@ -1,3 +1,7 @@
+# MICHAEL VICTOR
+# COMPUTER SCIENCE GROUP B
+# 23/0749
+
 class SimpleRandom:
     # Blueprint for a generator that makes pseudo-random numbers
     def __init__(self, seed):
